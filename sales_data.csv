@@ -1,0 +1,11 @@
+order_id,month,age,revenue,category
+1,January,24,1200,Electronics
+2,January,31,850,Clothing
+3,January,45,,Electronics
+4,February,19,600,Clothing
+5,February,52,2200,Home
+6,February,38,1750,Electronics
+7,March,27,900,Clothing
+8,March,63,3100,Home
+9,March,,1450,Electronics
+10,March,29,700,Clothing
